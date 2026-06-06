@@ -1,11 +1,6 @@
-<![CDATA[<div align="center">
+<div align="center">
 
- ███████╗██╗   ██╗███████╗███╗   ██╗████████╗    ███████╗██╗██╗     ███╗   ███╗
- ██╔════╝██║   ██║██╔════╝████╗  ██║╚══██╔══╝    ██╔════╝██║██║     ████╗ ████║
- █████╗  ██║   ██║█████╗  ██╔██╗ ██║   ██║       █████╗  ██║██║     ██╔████╔██║
- ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║   ██║       ██╔══╝  ██║██║     ██║╚██╔╝██║
- ███████╗ ╚████╔╝ ███████╗██║ ╚████║   ██║       ██║     ██║███████╗██║ ╚═╝ ██║
- ╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚═╝     ╚═╝╚══════╝╚═╝     ╚═╝
+# 📸 EVENT FILM
 
 ### 🎞️ POV Gallery & Camera
 
@@ -152,7 +147,7 @@ Hosts create event rolls. Guests join with a code. Everyone shoots on the same f
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/event-film-app.git
+git clone https://github.com/stackpasha/event-film-app.git
 
 # Open it
 cd event-film-app
@@ -295,4 +290,4 @@ This project is [MIT](LICENSE) licensed.
 *No film was harmed in the making of this app.*
 
 </div>
-]]>
+
