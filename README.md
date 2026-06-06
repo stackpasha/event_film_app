@@ -289,5 +289,11 @@ This project is [MIT](LICENSE) licensed.
 
 *No film was harmed in the making of this app.*
 
+## 👤 Author
+**Mohammed Shoaib**  
+📧 [shoaibpasha.dev@gmail.com](mailto:shoaibpasha.dev@gmail.com)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-shub1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibpasha)
 </div>
 
